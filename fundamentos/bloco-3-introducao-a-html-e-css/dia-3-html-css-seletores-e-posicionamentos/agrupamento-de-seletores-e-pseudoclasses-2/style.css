@@ -1,0 +1,40 @@
+div:hover {
+    border-style: dotted;
+}
+
+div:nth-of-type(3){
+    height:30px;
+}
+
+div:nth-of-type(odd){
+    font-style: italic;
+}
+
+#primary {
+    background-color: aquamarine;
+}
+
+#secondary{
+    background-color: blueviolet;
+}
+
+#complementary{
+    background-color: orange;
+}
+
+#dark {
+    background-color: grey;
+}
+
+#light{
+    background-color: blanchedalmond;
+}
+
+.dark-bg{
+    color:aliceblue;
+}
+
+.light-bg {
+    font-family: monospace;
+}
+
